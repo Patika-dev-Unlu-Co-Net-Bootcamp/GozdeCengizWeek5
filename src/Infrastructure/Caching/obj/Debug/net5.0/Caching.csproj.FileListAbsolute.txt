@@ -1,0 +1,12 @@
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\bin\Debug\net5.0\Caching.deps.json
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\bin\Debug\net5.0\Caching.dll
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\bin\Debug\net5.0\ref\Caching.dll
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\bin\Debug\net5.0\Caching.pdb
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.csproj.AssemblyReference.cache
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.AssemblyInfoInputs.cache
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.AssemblyInfo.cs
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.csproj.CoreCompileInputs.cache
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.dll
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\ref\Caching.dll
+C:\Users\sentu\Desktop\BlogProject-main\BlogProject-main\src\Infrastructure\Caching\obj\Debug\net5.0\Caching.pdb

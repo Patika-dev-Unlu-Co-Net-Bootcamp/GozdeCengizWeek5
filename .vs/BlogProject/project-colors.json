@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e536d5cb-306d-4a51-b094-6b16b29ad500": {
+      "ProjectGuid": "e536d5cb-306d-4a51-b094-6b16b29ad500",
+      "DisplayName": "BlogProject.WebApi",
+      "ColorIndex": 0
+    },
+    "40c32c89-0a7b-4e8c-9509-48e15be3ed0e": {
+      "ProjectGuid": "40c32c89-0a7b-4e8c-9509-48e15be3ed0e",
+      "DisplayName": "BlogProject.Persistence",
+      "ColorIndex": 1
+    },
+    "703f2aa2-769e-464d-985d-e8506c1b412a": {
+      "ProjectGuid": "703f2aa2-769e-464d-985d-e8506c1b412a",
+      "DisplayName": "BlogProject.Application",
+      "ColorIndex": 2
+    },
+    "b6195204-3720-4f26-b4a0-45d321376fa6": {
+      "ProjectGuid": "b6195204-3720-4f26-b4a0-45d321376fa6",
+      "DisplayName": "BlogProject.Service",
+      "ColorIndex": 3
+    },
+    "2d1160f8-78c9-4ed5-94dc-736643171ea1": {
+      "ProjectGuid": "2d1160f8-78c9-4ed5-94dc-736643171ea1",
+      "DisplayName": "BlogProject.Domain",
+      "ColorIndex": 4
+    },
+    "3d37161a-0d09-4909-a07d-0bf1b275e9cc": {
+      "ProjectGuid": "3d37161a-0d09-4909-a07d-0bf1b275e9cc",
+      "DisplayName": "Caching",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

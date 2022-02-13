@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBmzSyss2Gi0A7ZFLn8WOFXllbE875Gb+PUl2QXBMxIbJdkjBWhpp/PzR04QTspTj4omcOX+sq0jZ63I/cT/9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sentu\\Desktop\\BlogProject-main\\BlogProject-main\\src\\Infrastructure\\Caching\\Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sentu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sentu\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\sentu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sentu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sentu\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\sentu\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
